@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasancomak also known as @entrofi
+- 👋 Hi, I’m @hasancomak also known as [@entrofi](https://github.com/entrofi)
 - 👀 You can also visit https://www.entrofi.net or https://github.com/entrofi.
 
 <!---
